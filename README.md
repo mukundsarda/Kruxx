@@ -1,40 +1,40 @@
 # Kruxx: AI-Powered Educational Content Summarizer and Quiz Generator
 
-Kruxx is a web application designed to help students and educators manage educational content more efficiently. [cite_start]By leveraging Natural Language Processing (NLP) and Optical Character Recognition (OCR), Kruxx can summarize various types of educational materials and generate personalized quizzes[cite: 8].
+Kruxx is a web application designed to help students and educators manage educational content more efficiently. By leveraging Natural Language Processing (NLP) and Optical Character Recognition (OCR), Kruxx can summarize various types of educational materials and generate personalized quizzes.
 
 ## ✨ Features
 
-* [cite_start]**Multi-Format Support**: Upload content in various formats including[cite: 70, 71]:
-    * [cite_start]Documents: PDF, DOC, PPT [cite: 71]
-    * [cite_start]Images: Scanned notes and textbook pages [cite: 71]
-    * [cite_start]Video: YouTube video links [cite: 71]
-    * [cite_start]Websites: Website links [cite: 300]
+* **Multi-Format Support**: Upload content in various formats including:
+    * Documents: PDF, DOC, PPT
+    * Images: Scanned notes and textbook pages
+    * Video: YouTube video links
+    * Websites: Website links
 * **Advanced Summarization**:
-    * [cite_start]**Extractive Summarization**: Utilizes the BERT model to pull key sentences from the text[cite: 149, 303].
-    * [cite_start]**Abstractive Summarization**: Employs the BART model to generate new, concise summaries[cite: 149, 302].
-    * [cite_start]**Customizable Length**: Choose between short, medium, or long summaries[cite: 304].
+    * **Extractive Summarization**: Utilizes the BERT model to pull key sentences from the text.
+    * **Abstractive Summarization**: Employs the BART model to generate new, concise summaries.
+    * **Customizable Length**: Choose between short, medium, or long summaries.
 * **Dynamic Quiz Generation**:
-    * [cite_start]Automatically creates multiple-choice questions based on the uploaded content[cite: 73, 305].
-    * [cite_start]Generates relevant distractors to ensure the quizzes are challenging and effective[cite: 327].
+    * Automatically creates multiple-choice questions based on the uploaded content.
+    * Generates relevant distractors to ensure the quizzes are challenging and effective.
 * **YouTube Tools**:
-    * [cite_start]**Clickbait Detection**: Analyzes YouTube videos to determine if they are clickbait[cite: 74, 156, 311].
-    * [cite_start]**Video Recommendations**: Suggests relevant YouTube videos based on the provided link[cite: 74, 159, 312].
+    * **Clickbait Detection**: Analyzes YouTube videos to determine if they are clickbait.
+    * **Video Recommendations**: Suggests relevant YouTube videos based on the provided link.
 * **Accessibility Features**:
-    * [cite_start]**Text-to-Speech**: Converts summaries into audio[cite: 307].
-    * [cite_start]**Multi-Language Translation**: Translates summarized content into various languages[cite: 309].
+    * **Text-to-Speech**: Converts summaries into audio.
+    * **Multi-Language Translation**: Translates summarized content into various languages.
 
 ## 💻 Technologies Used
 
-* [cite_start]**Frontend**: HTML, Tailwind CSS, React, JavaScript [cite: 233]
-* [cite_start]**Backend**: Flask (Python) [cite: 234]
+* **Frontend**: HTML, Tailwind CSS, React, JavaScript
+* **Backend**: Flask (Python)
 * **AI/ML**:
-    * [cite_start]**NLP Models**: BERT, BART (from Transformers library) [cite: 659, 731]
-    * [cite_start]**Quiz Generation**: Generative AI API [cite: 306, 669]
-    * [cite_start]**OCR**: EasyOCR, DocTR [cite: 153, 238, 345]
+    * **NLP Models**: BERT, BART (from Transformers library)
+    * **Quiz Generation**: Generative AI API
+    * **OCR**: EasyOCR, DocTR
 * **APIs**:
-    * [cite_start]YouTube Transcript API [cite: 238]
-    * [cite_start]Google Translate API [cite: 68, 655]
-    * [cite_start]YouTube Data API [cite: 311, 329]
+    * YouTube Transcript API
+    * Google Translate API
+    * YouTube Data API
 
 ## ⚙️ Setup and Installation
 
@@ -63,10 +63,6 @@ Kruxx is a web application designed to help students and educators manage educat
 
 ## 🤝 Team
 
-* [cite_start]Mukund Sarda (21103105) [cite: 12, 31]
-* [cite_start]Vansh Gupta (21103107) [cite: 14, 32]
-* [cite_start]Aryan Jolly (21103110) [cite: 16, 33]
-
-## 👩‍🏫 Supervisor
-
-* [cite_start]Dr. Aastha Maheshwari [cite: 17]
+* Mukund Sarda (21103105)
+* Vansh Gupta (21103107)
+* Aryan Jolly (21103110)
