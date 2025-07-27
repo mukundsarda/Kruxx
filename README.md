@@ -40,7 +40,7 @@ Kruxx is a web application designed to help students and educators manage educat
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/Kruxx.git](https://github.com/your-username/Kruxx.git)
+    git clone https://github.com/mukundsarda/Kruxx.git
     cd Kruxx
     ```
 2.  **Install backend dependencies**:
